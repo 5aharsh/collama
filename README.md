@@ -1,5 +1,5 @@
 <p align="center">
-![preview](./assets/banner.png)
+<img src="./assets/banner.png"/>
 </p>
 
 Run Ollama models directly in Google Colab.
